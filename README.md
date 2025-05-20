@@ -1,22 +1,35 @@
-# Resumo do Lab - DIO
+# Formação Microsoft Azure 900 Certification – DIO
 
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do laboratório na plataforma DIO (Digital Innovation One).
+Este repositório contém os desafios de projeto desenvolvidos ao longo da formação **Microsoft Azure 900 Certification** oferecida pela [DIO (Digital Innovation One)](https://www.dio.me/).
 
-## 🧠 O que aprendi
+## Sobre a Formação
 
-Durante o lab, tive a oportunidade de consolidar e colocar em prática diversos conhecimentos importantes para a minha formação na área de tecnologia. Entre os principais aprendizados, destaco:
+A formação tem como objetivo fornecer uma compreensão fundamental dos conceitos de computação em nuvem, com foco na plataforma **Microsoft Azure**. É voltada para quem está iniciando na nuvem e busca se preparar para a certificação **Microsoft Certified: Azure Fundamentals (AZ-900)**.
 
-- ✅ **Uso do Git e GitHub:** Aprendi a criar repositórios, versionar arquivos, fazer commits e entender o fluxo básico de colaboração em projetos.
-- ✅ **Criação e edição de arquivos Markdown (.md):** Compreendi a estrutura de um README e sua importância para documentar projetos de forma clara.
-- ✅ **Organização de projetos no GitHub:** Vi na prática como estruturar um repositório e tornar seu conteúdo acessível para recrutadores e colegas da comunidade.
-- ✅ **Importância da documentação:** Percebi como um bom README pode destacar meu trabalho e facilitar o entendimento do projeto por outras pessoas.
-- ✅ **Conceitos técnicos apresentados no lab:** Aqui você pode complementar com os conteúdos específicos do lab, como HTML, CSS, Shell Script, Banco de Dados, Python etc.
+Durante o curso, são apresentados conceitos como:
 
-## 🚀 Conclusão
+- Princípios de computação em nuvem
+- Modelos de serviço e implantação (IaaS, PaaS, SaaS)
+- Componentes principais do Azure
+- Soluções e ferramentas de gerenciamento
+- Governança, conformidade e segurança
+- Custos e suporte no Azure
 
-Este laboratório foi uma excelente oportunidade para praticar habilidades técnicas e comportamentais essenciais na área de tecnologia. Além de reforçar a importância da documentação, colaboração e uso de ferramentas modernas de desenvolvimento, me sinto mais preparado para atuar em projetos reais e construir um portfólio de destaque.
+## Estrutura dos Desafios
+
+A cada etapa da formação, desafios de projeto são propostos para aplicar os conhecimentos aprendidos. Este repositório serve como índice para acesso a cada um deles.
+
+## Sumário de Desafios de Projeto
+
+| Nº | Nome do Projeto | Link |
+|----|------------------|------|
+| 1  | Localizando serviços por categoria | [Acessar](./desafio-de-projeto-1-localizando-servicos-por-categoria/README.md) |
+| 2  | Criando máquinas virtuais | *(link em breve)* |
+| 3  | ... | *(em construção)* |
+
+> Os projetos são organizados em pastas separadas com seus respectivos arquivos `README.md`.
 
 ---
 
-📎 Repositório criado como parte do desafio proposto pela DIO.
+Sinta-se à vontade para clonar este repositório, acompanhar minha evolução e explorar os desafios concluídos!
 
