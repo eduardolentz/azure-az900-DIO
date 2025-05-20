@@ -7,11 +7,13 @@ Este repositório faz parte da formação **Microsoft Azure 900 Certification** 
 Praticar a criação de uma máquina virtual no Azure e desenvolver a habilidade de documentar o processo técnico de forma clara, utilizando o GitHub como repositório de estudo e referência.
 
 ## 📁 Estrutura do Repositório
+```
 desafio-de-projeto-2-criando-maquinas-virtuais/
 ├── README.md
 └── images/
 ├── criacao-vm.png
-└── configuracoes.png`
+└── configuracoes.png
+```
 
 ## 🖼️ Capturas de Tela
 
