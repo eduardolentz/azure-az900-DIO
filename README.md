@@ -25,7 +25,7 @@ A cada etapa da formação, desafios de projeto são propostos para aplicar os c
 |----|------------------|------|
 | 1  | Localizando serviços por categoria | [Acessar](https://github.com/eduardolentz/azure-az900-DIO/tree/main/Desafio%20de%20projeto%201%20-%20Localizando%20Servi%C3%A7os%20por%20categoria) |
 | 2  | Criando máquinas virtuais | [Acessar](https://github.com/eduardolentz/azure-az900-DIO/tree/main/Desafio%20de%20projeto%202%20-%20Criando%20maquinas%20virtuais) |
-| 3  | Configurando instancias de Banco da Dados | *(em construção)* |
+| 3  | Configurando instancias de Banco da Dados | [Acessar](https://github.com/eduardolentz/azure-az900-DIO/tree/main/Desafio%20de%20projeto%203%20-%20Configurando%20instancia%20de%20Banco%20de%20Dados) |
 
 > Os projetos são organizados em pastas separadas com seus respectivos arquivos `README.md`.
 
