@@ -23,7 +23,7 @@ A cada etapa da formação, desafios de projeto são propostos para aplicar os c
 
 | Nº | Nome do Projeto | Link |
 |----|------------------|------|
-| 1  | Localizando serviços por categoria | [Acessar](./desafio-de-projeto-1-localizando-servicos-por-categoria/README.md) |
+| 1  | Localizando serviços por categoria | [Acessar](https://github.com/eduardolentz/azure-az900-DIO/tree/main/Desafio%20de%20projeto%201%20-%20Localizando%20Servi%C3%A7os%20por%20categoria) |
 | 2  | Criando máquinas virtuais | *(link em breve)* |
 | 3  | ... | *(em construção)* |
 
